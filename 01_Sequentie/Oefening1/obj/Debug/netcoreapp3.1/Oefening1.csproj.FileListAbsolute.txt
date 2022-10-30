@@ -1,0 +1,14 @@
+C:\Users\orang\OneDrive\Documenten\school\Fase 1\Programmeren\Oefeningen\1 Sequentie\Oefening1\bin\Debug\netcoreapp3.1\Oefening1.exe
+C:\Users\orang\OneDrive\Documenten\school\Fase 1\Programmeren\Oefeningen\1 Sequentie\Oefening1\bin\Debug\netcoreapp3.1\Oefening1.deps.json
+C:\Users\orang\OneDrive\Documenten\school\Fase 1\Programmeren\Oefeningen\1 Sequentie\Oefening1\bin\Debug\netcoreapp3.1\Oefening1.runtimeconfig.json
+C:\Users\orang\OneDrive\Documenten\school\Fase 1\Programmeren\Oefeningen\1 Sequentie\Oefening1\bin\Debug\netcoreapp3.1\Oefening1.runtimeconfig.dev.json
+C:\Users\orang\OneDrive\Documenten\school\Fase 1\Programmeren\Oefeningen\1 Sequentie\Oefening1\bin\Debug\netcoreapp3.1\Oefening1.dll
+C:\Users\orang\OneDrive\Documenten\school\Fase 1\Programmeren\Oefeningen\1 Sequentie\Oefening1\bin\Debug\netcoreapp3.1\Oefening1.pdb
+C:\Users\orang\OneDrive\Documenten\school\Fase 1\Programmeren\Oefeningen\1 Sequentie\Oefening1\obj\Debug\netcoreapp3.1\Oefening1.csproj.AssemblyReference.cache
+C:\Users\orang\OneDrive\Documenten\school\Fase 1\Programmeren\Oefeningen\1 Sequentie\Oefening1\obj\Debug\netcoreapp3.1\Oefening1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orang\OneDrive\Documenten\school\Fase 1\Programmeren\Oefeningen\1 Sequentie\Oefening1\obj\Debug\netcoreapp3.1\Oefening1.AssemblyInfoInputs.cache
+C:\Users\orang\OneDrive\Documenten\school\Fase 1\Programmeren\Oefeningen\1 Sequentie\Oefening1\obj\Debug\netcoreapp3.1\Oefening1.AssemblyInfo.cs
+C:\Users\orang\OneDrive\Documenten\school\Fase 1\Programmeren\Oefeningen\1 Sequentie\Oefening1\obj\Debug\netcoreapp3.1\Oefening1.csproj.CoreCompileInputs.cache
+C:\Users\orang\OneDrive\Documenten\school\Fase 1\Programmeren\Oefeningen\1 Sequentie\Oefening1\obj\Debug\netcoreapp3.1\Oefening1.dll
+C:\Users\orang\OneDrive\Documenten\school\Fase 1\Programmeren\Oefeningen\1 Sequentie\Oefening1\obj\Debug\netcoreapp3.1\Oefening1.pdb
+C:\Users\orang\OneDrive\Documenten\school\Fase 1\Programmeren\Oefeningen\1 Sequentie\Oefening1\obj\Debug\netcoreapp3.1\Oefening1.genruntimeconfig.cache
