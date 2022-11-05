@@ -7,8 +7,8 @@ namespace Oef_06_03
         static void Main(string[] args)
         {
             string team = "", 
-                hoeLang = "", 
-                hoebreed = "", 
+                lang = "", 
+                breed = "", 
                 fig1 = "", 
                 figuur1, 
                 fig2 = "", 
@@ -36,14 +36,14 @@ namespace Oef_06_03
 
 
                     if (team == "*****") //check om programma te beeindigen
-                {
+                    {
                         Console.WriteLine("Programma is beeindigd...");
                         break;
                     }
 
 
-                    sjaal += team; //voeg het team toe aan de sjaal
-                    sjaal += "\n"; //voeg een nieuwe lijn toe aan de sjaal
+                    sjaal += team; //voegt het team toe aan de sjaal
+                    sjaal += "\n"; //voegt een nieuwe lijn toe aan de sjaal
 
                     do
                     {
@@ -66,20 +66,20 @@ namespace Oef_06_03
                     {
 
                     Console.Write("Geef een lengte: ");
-                    hoeLang = Console.ReadLine();
+                    lang = Console.ReadLine();
 
-                    } while (int.TryParse(hoeLang, out lengte) == false || lengte < 4); //check voor ingave lengte
+                    } while (int.TryParse(lang, out lengte) == false || lengte < 4); //validatie voor ingave lengte
 
                     do
                     {
 
                         Console.Write("Geef een breedte: ");
-                        hoebreed = Console.ReadLine();
+                        breed = Console.ReadLine();
 
 
-                    } while (int.TryParse(hoebreed, out breedte) == false || breedte < (lengte/2)); //validatie voor ingave breedte
+                    } while (int.TryParse(breed, out breedte) == false || breedte < (lengte/2)); //validatie voor ingave breedte
 
-                    for (int i = 0; i < breedte; i++) //maak de figuren de correcte breedte
+                    for (int i = 0; i < breedte; i++) //maakt de figuren de correcte breedte
                     {
 
                     figuur1 += fig1;
@@ -119,13 +119,14 @@ namespace Oef_06_03
                     sjaal += figuur1;
                     sjaal += "\n";
 
-                    }//einde else
+                        }//einde else
 
 
 
             }//einde while loop
 
             Console.WriteLine(sjaal); //drukt de sjaal af
+            Console.ReadLine();
 
 
 
