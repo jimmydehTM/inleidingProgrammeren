@@ -29,14 +29,15 @@ namespace Oef_06_03
 
                     do
                     {
-                        Console.Write("Geef een team: ");
+                        Console.Write("Geef een team of ***** om te eindigen: ");
                         team = Console.ReadLine();
 
                     } while (String.IsNullOrWhiteSpace(team) || team.Length < 5); //validatie ingave team
 
 
-                    if (team == "*****") //check om programma te beindigen
-                    {
+                    if (team == "*****") //check om programma te beeindigen
+                {
+                        Console.WriteLine("Programma is beeindigd...");
                         break;
                     }
 
