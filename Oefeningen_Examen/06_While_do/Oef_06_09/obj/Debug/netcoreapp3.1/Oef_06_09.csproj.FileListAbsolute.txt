@@ -1,0 +1,14 @@
+C:\Users\orang\OneDrive\Documenten\school\Fase 1\Programmeren\Oefeningen\Oefeningen_Examen\06_While_do\Oef_06_09\bin\Debug\netcoreapp3.1\Oef_06_09.exe
+C:\Users\orang\OneDrive\Documenten\school\Fase 1\Programmeren\Oefeningen\Oefeningen_Examen\06_While_do\Oef_06_09\bin\Debug\netcoreapp3.1\Oef_06_09.deps.json
+C:\Users\orang\OneDrive\Documenten\school\Fase 1\Programmeren\Oefeningen\Oefeningen_Examen\06_While_do\Oef_06_09\bin\Debug\netcoreapp3.1\Oef_06_09.runtimeconfig.json
+C:\Users\orang\OneDrive\Documenten\school\Fase 1\Programmeren\Oefeningen\Oefeningen_Examen\06_While_do\Oef_06_09\bin\Debug\netcoreapp3.1\Oef_06_09.runtimeconfig.dev.json
+C:\Users\orang\OneDrive\Documenten\school\Fase 1\Programmeren\Oefeningen\Oefeningen_Examen\06_While_do\Oef_06_09\bin\Debug\netcoreapp3.1\Oef_06_09.dll
+C:\Users\orang\OneDrive\Documenten\school\Fase 1\Programmeren\Oefeningen\Oefeningen_Examen\06_While_do\Oef_06_09\bin\Debug\netcoreapp3.1\Oef_06_09.pdb
+C:\Users\orang\OneDrive\Documenten\school\Fase 1\Programmeren\Oefeningen\Oefeningen_Examen\06_While_do\Oef_06_09\obj\Debug\netcoreapp3.1\Oef_06_09.csproj.AssemblyReference.cache
+C:\Users\orang\OneDrive\Documenten\school\Fase 1\Programmeren\Oefeningen\Oefeningen_Examen\06_While_do\Oef_06_09\obj\Debug\netcoreapp3.1\Oef_06_09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orang\OneDrive\Documenten\school\Fase 1\Programmeren\Oefeningen\Oefeningen_Examen\06_While_do\Oef_06_09\obj\Debug\netcoreapp3.1\Oef_06_09.AssemblyInfoInputs.cache
+C:\Users\orang\OneDrive\Documenten\school\Fase 1\Programmeren\Oefeningen\Oefeningen_Examen\06_While_do\Oef_06_09\obj\Debug\netcoreapp3.1\Oef_06_09.AssemblyInfo.cs
+C:\Users\orang\OneDrive\Documenten\school\Fase 1\Programmeren\Oefeningen\Oefeningen_Examen\06_While_do\Oef_06_09\obj\Debug\netcoreapp3.1\Oef_06_09.csproj.CoreCompileInputs.cache
+C:\Users\orang\OneDrive\Documenten\school\Fase 1\Programmeren\Oefeningen\Oefeningen_Examen\06_While_do\Oef_06_09\obj\Debug\netcoreapp3.1\Oef_06_09.dll
+C:\Users\orang\OneDrive\Documenten\school\Fase 1\Programmeren\Oefeningen\Oefeningen_Examen\06_While_do\Oef_06_09\obj\Debug\netcoreapp3.1\Oef_06_09.pdb
+C:\Users\orang\OneDrive\Documenten\school\Fase 1\Programmeren\Oefeningen\Oefeningen_Examen\06_While_do\Oef_06_09\obj\Debug\netcoreapp3.1\Oef_06_09.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\orang\OneDrive\Documenten\school\Fase 1\Programmeren\Oefeningen\Oefeningen_Examen\validatie_float\bin\Debug\netcoreapp3.1\validatie_float.exe
+C:\Users\orang\OneDrive\Documenten\school\Fase 1\Programmeren\Oefeningen\Oefeningen_Examen\validatie_float\bin\Debug\netcoreapp3.1\validatie_float.deps.json
+C:\Users\orang\OneDrive\Documenten\school\Fase 1\Programmeren\Oefeningen\Oefeningen_Examen\validatie_float\bin\Debug\netcoreapp3.1\validatie_float.runtimeconfig.json
+C:\Users\orang\OneDrive\Documenten\school\Fase 1\Programmeren\Oefeningen\Oefeningen_Examen\validatie_float\bin\Debug\netcoreapp3.1\validatie_float.runtimeconfig.dev.json
+C:\Users\orang\OneDrive\Documenten\school\Fase 1\Programmeren\Oefeningen\Oefeningen_Examen\validatie_float\bin\Debug\netcoreapp3.1\validatie_float.dll
+C:\Users\orang\OneDrive\Documenten\school\Fase 1\Programmeren\Oefeningen\Oefeningen_Examen\validatie_float\bin\Debug\netcoreapp3.1\validatie_float.pdb
+C:\Users\orang\OneDrive\Documenten\school\Fase 1\Programmeren\Oefeningen\Oefeningen_Examen\validatie_float\obj\Debug\netcoreapp3.1\validatie_float.csproj.AssemblyReference.cache
+C:\Users\orang\OneDrive\Documenten\school\Fase 1\Programmeren\Oefeningen\Oefeningen_Examen\validatie_float\obj\Debug\netcoreapp3.1\validatie_float.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orang\OneDrive\Documenten\school\Fase 1\Programmeren\Oefeningen\Oefeningen_Examen\validatie_float\obj\Debug\netcoreapp3.1\validatie_float.AssemblyInfoInputs.cache
+C:\Users\orang\OneDrive\Documenten\school\Fase 1\Programmeren\Oefeningen\Oefeningen_Examen\validatie_float\obj\Debug\netcoreapp3.1\validatie_float.AssemblyInfo.cs
+C:\Users\orang\OneDrive\Documenten\school\Fase 1\Programmeren\Oefeningen\Oefeningen_Examen\validatie_float\obj\Debug\netcoreapp3.1\validatie_float.csproj.CoreCompileInputs.cache
+C:\Users\orang\OneDrive\Documenten\school\Fase 1\Programmeren\Oefeningen\Oefeningen_Examen\validatie_float\obj\Debug\netcoreapp3.1\validatie_float.dll
+C:\Users\orang\OneDrive\Documenten\school\Fase 1\Programmeren\Oefeningen\Oefeningen_Examen\validatie_float\obj\Debug\netcoreapp3.1\validatie_float.pdb
+C:\Users\orang\OneDrive\Documenten\school\Fase 1\Programmeren\Oefeningen\Oefeningen_Examen\validatie_float\obj\Debug\netcoreapp3.1\validatie_float.genruntimeconfig.cache
